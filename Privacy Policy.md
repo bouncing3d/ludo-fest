@@ -1,32 +1,43 @@
-# Privacy Policy for Ludo Fest   
-*Last Updated: 2025-05-18*  
-*Developer: Bouncing3D*  
-*Contact: bouncing3d@gmail.com*  
+# Privacy Policy for Ludo Fest
 
-## 1. Data Collection  
-This game:  
-- **Does NOT** collect personal data (no accounts, emails, etc.)  
-- **Does NOT** track gameplay (no analytics)  
-- **Does NOT** automatically report crashes  
+**Last Updated:** 2025-05-18  
+**Developer:** Bouncing3D  
+**Contact:** bouncing3d@gmail.com  
 
-The only data collection occurs through:  
-**Unity Ads** (third-party service) may collect:  
-- Device identifiers (e.g., Advertising ID)  
-- IP address (for regional ad targeting)  
-- Ad interactions (views/clicks)  
+## 1. Data Handling
 
-*This data is processed by Unity Technologies. See their [Privacy Policy](https://unity.com/legal/privacy-policy).*  
+This game:
 
-## 2. Your Rights  
-### Control Options:  
-- **EU Users (GDPR)**: Accept/deny personalized ads via the first-launch popup.  
-- **California Users (CCPA)**: Toggle *"Do Not Sell My Personal Information"* in Settings > Privacy.  
-- **All Players**: Enable *"Limit Ad Tracking"* in device settings.  Request data deletion via [Privacy Policy Hub](https://unity.com/legal/privacy-policy).  
+- **Does not collect personal data** (no accounts, emails, or online tracking)
+- **Saves all data locally only** (game progress, scores, settings)
+- **Does not transmit anything to servers** (fully offline play)
 
-## 3. Children's Privacy  
-This game:  
-- Is **not directed at children under 13**  
-- **Does not knowingly collect** data from COPPA-covered users  
+**The only exception:**
 
-## 4. Policy Changes  
-Updates will be reflected in the *"Last Updated"* date. Continued play accepts revisions.   
+- **Unity Ads** (optional third-party service) may collect for ad delivery:
+  - Device Advertising ID (for non-personalized ads)
+  - IP address (regional ad targeting)
+  - Ad interactions (clicks/views)
+
+*Data from ads is managed by Unity, not us. See [Unity's Privacy Policy](https://unity.com/legal/privacy-policy).*
+
+## 2. Your Control
+
+### For Ads (if enabled):
+
+- Turn off personalized ads via your **device settings** (e.g., "Limit Ad Tracking")
+- Opt out of Unity's data collection via their [Privacy Portal](https://unity3d.com/legal/privacy-policy)
+
+### For Local Data:
+
+- Delete all game data by **uninstalling the app** (no cloud/server backup exists)
+
+## 3. Children's Privacy
+
+- Not directed at kids under 13
+- **No data is shared externally**, even if children play
+
+## 4. Changes & Contact
+
+- Policy updates will update the **"Last Updated" date**
+- Questions? Email **bouncing3d@gmail.com**
