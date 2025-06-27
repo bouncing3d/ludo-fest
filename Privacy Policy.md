@@ -35,7 +35,7 @@ This game:
 ## 3. Children's Privacy
 
 - Not directed at kids under 13
-- **No data is shared externally**, even if children play
+- No personal data is intentionally shared externally. For optional third-party ads, see 'Data Handling'.
 
 ## 4. Changes & Contact
 
